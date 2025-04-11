@@ -1,4 +1,4 @@
- # Here is a new update by kctcuk
+ # Here is a new update by Kctcuk
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
